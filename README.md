@@ -4,5 +4,5 @@
 - Current apprenticeship: AWS Cloud and Machine Learning.
 - Open to Collaborate on Web Application Projects.
 
-## https://rb.gy/lgrdft
+# FindMe. https://rb.gy/lgrdft
 
